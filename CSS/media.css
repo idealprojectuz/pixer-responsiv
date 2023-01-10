@@ -1,0 +1,40 @@
+@media only screen and (max-width: 923px) {
+    .hero__text {
+        margin-bottom: 20px;
+    }
+
+    .hero__wrapper {
+        margin-bottom: 150px;
+    }
+}
+
+@media only screen and (max-width: 831px) {
+    .info-card__title {
+        text-align: center;
+    }
+
+    .info-card__subtitle {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 570px) {
+    #footer-first-row {
+        width: 100%;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+@media only screen and (max-width: 797px) {
+    .menu__item {
+        display: none;
+    }
+
+    .knopka {
+        display: block;
+    }
+}
